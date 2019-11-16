@@ -109,3 +109,5 @@ C:\Users\Adria\Source\Repos\Algebra-netCore3-Api\AlgebraAPI\Algebra.API\bin\Debu
 C:\Users\Adria\Source\Repos\Algebra-netCore3-Api\AlgebraAPI\Algebra.API\obj\Debug\netcoreapp3.0\Algebra.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Adria\Source\Repos\Algebra-netCore3-Api\AlgebraAPI\Algebra.API\obj\Debug\netcoreapp3.0\Algebra.API.dll
 C:\Users\Adria\Source\Repos\Algebra-netCore3-Api\AlgebraAPI\Algebra.API\obj\Debug\netcoreapp3.0\Algebra.API.pdb
+C:\Users\Adria\Source\Repos\Algebra-netCore3-Api\AlgebraAPI\Algebra.API\bin\Debug\netcoreapp3.0\Algebra.Application.dll
+C:\Users\Adria\Source\Repos\Algebra-netCore3-Api\AlgebraAPI\Algebra.API\bin\Debug\netcoreapp3.0\Algebra.Application.pdb

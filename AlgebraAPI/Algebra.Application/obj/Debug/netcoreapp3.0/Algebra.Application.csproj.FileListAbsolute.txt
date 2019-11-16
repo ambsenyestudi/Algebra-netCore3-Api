@@ -1,0 +1,8 @@
+C:\Users\Adria\Source\Repos\Algebra-netCore3-Api\AlgebraAPI\Algebra.Application\bin\Debug\netcoreapp3.0\Algebra.Application.deps.json
+C:\Users\Adria\Source\Repos\Algebra-netCore3-Api\AlgebraAPI\Algebra.Application\bin\Debug\netcoreapp3.0\Algebra.Application.dll
+C:\Users\Adria\Source\Repos\Algebra-netCore3-Api\AlgebraAPI\Algebra.Application\bin\Debug\netcoreapp3.0\Algebra.Application.pdb
+C:\Users\Adria\Source\Repos\Algebra-netCore3-Api\AlgebraAPI\Algebra.Application\obj\Debug\netcoreapp3.0\Algebra.Application.csprojAssemblyReference.cache
+C:\Users\Adria\Source\Repos\Algebra-netCore3-Api\AlgebraAPI\Algebra.Application\obj\Debug\netcoreapp3.0\Algebra.Application.AssemblyInfoInputs.cache
+C:\Users\Adria\Source\Repos\Algebra-netCore3-Api\AlgebraAPI\Algebra.Application\obj\Debug\netcoreapp3.0\Algebra.Application.AssemblyInfo.cs
+C:\Users\Adria\Source\Repos\Algebra-netCore3-Api\AlgebraAPI\Algebra.Application\obj\Debug\netcoreapp3.0\Algebra.Application.dll
+C:\Users\Adria\Source\Repos\Algebra-netCore3-Api\AlgebraAPI\Algebra.Application\obj\Debug\netcoreapp3.0\Algebra.Application.pdb

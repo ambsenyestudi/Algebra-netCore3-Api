@@ -2496,6 +2496,19 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "Algebra.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Microsoft.Extensions.Options": "3.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Algebra.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Algebra.Application.dll": {}
+        }
       }
     }
   },
@@ -8041,10 +8054,16 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "Algebra.Application/1.0.0": {
+      "type": "project",
+      "path": "../Algebra.Application/Algebra.Application.csproj",
+      "msbuildProject": "../Algebra.Application/Algebra.Application.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
+      "Algebra.Application >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 3.0.0",
       "Microsoft.Extensions.Logging.Debug >= 3.0.0",
@@ -8081,7 +8100,11 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Adria\\Source\\Repos\\Algebra-netCore3-Api\\AlgebraAPI\\Algebra.Application\\Algebra.Application.csproj": {
+              "projectPath": "C:\\Users\\Adria\\Source\\Repos\\Algebra-netCore3-Api\\AlgebraAPI\\Algebra.Application\\Algebra.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

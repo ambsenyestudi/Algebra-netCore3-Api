@@ -20,7 +20,7 @@
     "Algebra.API": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/rowmtxoperation",
+      "launchUrl": "api/apidescriptor",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
