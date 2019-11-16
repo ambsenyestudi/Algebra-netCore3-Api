@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Algebra.Application.DTOs;
+﻿using Algebra.Application.DTOs;
 using Algebra.Application.Matrixes;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Algebra.API.Controllers

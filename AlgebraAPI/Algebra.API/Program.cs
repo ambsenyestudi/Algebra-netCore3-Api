@@ -20,7 +20,13 @@ namespace Algebra.API
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
+                    //webBuilder.UseUrls("https://localahost:1001;http://localhost:1000");
+                    webBuilder.UseKestrel((context, serverOptions) =>
+                    {
+                        serverOptions.Configure(context.Configuration.GetSection("Kestrel"));
+                    });
                     webBuilder.UseStartup<Startup>();
+                    
                 });
     }
 }
